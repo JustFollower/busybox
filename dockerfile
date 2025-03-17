@@ -1,1 +1,1 @@
-FROM docker.io/egonlin/busybox:v1
+FROM docker.io/busybox
